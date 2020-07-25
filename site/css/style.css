@@ -1,12 +1,22 @@
 body {
    color: #000000;
    background-color:  #3774A1;
+   font-family: 'Roboto Condensed', sans-serif;
+}
+
+.header {
+   color: #000000;
+   background-color:  #AD3259;
+   font-size: 40px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
 }
 
 .container {
-   font-family: 'Roboto Condensed', sans-serif;
    display: flex;
    flex-direction: column;
+   flex-shrink: 5;
 }
 
 .principle-box {
