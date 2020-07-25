@@ -1,6 +1,6 @@
 body {
    color: #000000;
-   background-color:  #3B76A3;
+   background-color:  #3774A1;
 }
 
 .container {
@@ -19,7 +19,7 @@ body {
    text-align: left;
    border: dotted red;
    color: #000000;
-   background-color: #86BD8F;
+   background-color: #35B86C;
 }
 
 .design {
@@ -32,5 +32,5 @@ body {
    text-align: center;
    border: double thick red;
    color: #000000;
-   background-color: #984DBD;
+   background-color: #6735B8;
 }
