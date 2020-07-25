@@ -1,0 +1,6 @@
+.container {
+   font-family: 'Roboto Condensed', sans-serif;
+   display: flex;
+   justify-content: flex-end;
+   flex-direction: column;
+}
