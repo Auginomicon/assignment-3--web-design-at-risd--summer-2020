@@ -9,8 +9,23 @@
    height: 130px;
    padding: 15px 20px 15px;
    margin-top: 1rem;
-   margin-left: 65rem;
+   margin-bottom: 1rem;
+   margin-left: 48%;
    text-align: left;
    border: dotted red;
+   color: #3B76A3;
    background-color: #86BD8F;
+}
+
+.design {
+   width: 275px;
+   height: 130px;
+   margin-left: 30%;
+   padding: 13px 17px 13px;
+   position: sticky;
+   top: 10px;
+   text-align: center;
+   border: double thick red;
+   color: #3B76A3;
+   background-color: #984DBD;
 }
