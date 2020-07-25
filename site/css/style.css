@@ -1,3 +1,8 @@
+body {
+   color: #000000;
+   background-color:  #3B76A3;
+}
+
 .container {
    font-family: 'Roboto Condensed', sans-serif;
    display: flex;
@@ -13,7 +18,7 @@
    margin-left: 48%;
    text-align: left;
    border: dotted red;
-   color: #3B76A3;
+   color: #000000;
    background-color: #86BD8F;
 }
 
@@ -26,6 +31,6 @@
    top: 10px;
    text-align: center;
    border: double thick red;
-   color: #3B76A3;
+   color: #000000;
    background-color: #984DBD;
 }
