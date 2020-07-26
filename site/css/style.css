@@ -25,13 +25,17 @@ body {
 }
 
 .principle-box {
+   display: flex;
    width: 275px;
    height: 130px;
+   font-size: 28px;
    padding: 15px 20px 15px;
+   align-items: center;
+   justify-content: center;
    margin-top: 1rem;
    margin-bottom: 1rem;
    margin-left: 48%;
-   text-align: left;
+   text-align: center;
    border: dotted red;
    color: #000000;
    background-color: #35B86C;
