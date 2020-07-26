@@ -24,6 +24,12 @@ body {
    flex-shrink: 5;
 }
 
+.link {
+   display: flex;
+   justify-content: center;
+   text-align: center;
+}
+
 img {
    display: flex;
    align-items: center;
