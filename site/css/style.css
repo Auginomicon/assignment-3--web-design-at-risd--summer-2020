@@ -47,6 +47,16 @@ body {
    border: 15px solid #6735B8;
 }
 
+.arrow {
+   display: flex;
+   align-items: center;
+   position: sticky;
+   justify-content: center;
+   top: 29%;
+   margin-top: -11%;
+   margin-left: 43%;
+}
+
 .principle-box {
    display: flex;
    width: 275px;
@@ -57,7 +67,7 @@ body {
    justify-content: center;
    margin-top: 1.4rem;
    margin-bottom: 1.6rem;
-   margin-left: 48%;
+   margin-left: 56%;
    text-align: center;
    border: 4mm ridge rgb(145, 176, 53);
    color: #000000;
@@ -70,7 +80,7 @@ body {
    font-size: 40px;
    width: 275px;
    height: 130px;
-   margin-left: 28%;
+   margin-left: 24%;
    padding: 8px 17px 13px;
    position: sticky;
    justify-content: center;
