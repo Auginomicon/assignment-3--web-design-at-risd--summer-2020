@@ -7,10 +7,15 @@ body {
 .header {
    color: #000000;
    background-color:  #AD3259;
-   font-size: 40px;
+   font-size: 32px;
    display: flex;
-   flex-direction: row;
+   flex-direction: column;
    justify-content: center;
+}
+
+.tiny-box {
+   align-self: center;
+   padding: 6px 6px 6px;
 }
 
 .container {
@@ -38,7 +43,7 @@ body {
    margin-left: 30%;
    padding: 13px 17px 13px;
    position: sticky;
-   top: 10px;
+   top: 29%;
    text-align: center;
    border: double thick red;
    color: #000000;
