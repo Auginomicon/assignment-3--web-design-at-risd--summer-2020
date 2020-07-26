@@ -38,11 +38,15 @@ body {
 }
 
 .design {
+   display: flex;
+   align-items: center;
+   font-size: 40px;
    width: 275px;
    height: 130px;
    margin-left: 30%;
-   padding: 13px 17px 13px;
+   padding: 10px 17px 13px;
    position: sticky;
+   justify-content: center;
    top: 29%;
    text-align: center;
    border: double thick red;
