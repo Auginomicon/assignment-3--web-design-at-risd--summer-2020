@@ -111,3 +111,20 @@ body {
    color: #000000;
    background-color: #35B86C;
 }
+
+.header-container {
+   color: #000000;
+   background-color:  #AD3259;
+   font-size: 32px;
+   font-weight: bold;
+   text-shadow: 1px 1px 2px #91B035;
+   display: flex;
+   flex-direction: row;
+   padding: 0px 10px 10px 0px;
+   justify-content: space-between;
+}
+
+.header-container-cell {
+   padding: 5px 5px 5px;
+   border: 2mm ridge rgb(103, 53, 184);
+}
