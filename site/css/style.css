@@ -94,3 +94,21 @@ body {
    color: #000000;
    background-color: #35B86C;
 }
+
+.hover-text {
+   display: none;
+}
+.learn-more:hover  + .hover-text{
+   font-size: 20px;
+   display: flex;
+   position: absolute;
+   justify-content: center;
+   align-content: center;
+   margin-left: 78%;
+   margin-top: 5%;
+   padding: 10px 10px 10px 10px;
+   border: 4px solid rgb(103, 53, 184);
+   border-radius: 5%;
+   color: #000000;
+   background-color: #35B86C;
+}
