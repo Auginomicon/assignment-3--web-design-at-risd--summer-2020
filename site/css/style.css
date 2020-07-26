@@ -13,6 +13,8 @@ body {
    display: flex;
    flex-direction: column;
    justify-content: center;
+   top: 0px;
+   position: sticky;
 }
 
 .tiny-box {
@@ -49,12 +51,12 @@ img {
    display: flex;
    width: 275px;
    height: 130px;
-   font-size: 28px;
+   font-size: 32px;
    padding: 15px 20px 15px;
    align-items: center;
    justify-content: center;
-   margin-top: 1rem;
-   margin-bottom: 1rem;
+   margin-top: 1.4rem;
+   margin-bottom: 1.6rem;
    margin-left: 48%;
    text-align: center;
    border: 4mm ridge rgb(145, 176, 53);
@@ -69,10 +71,10 @@ img {
    width: 275px;
    height: 130px;
    margin-left: 28%;
-   padding: 10px 17px 13px;
+   padding: 8px 17px 13px;
    position: sticky;
    justify-content: center;
-   top: 30%;
+   top: 34%;
    text-align: center;
    border: 4mm ridge rgb(145, 176, 53);
    color: #000000;
