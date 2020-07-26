@@ -24,6 +24,19 @@ body {
    flex-shrink: 5;
 }
 
+img {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   align-content: center;
+   border-radius: 45%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 2rem;
+   margin-bottom: 2rem;
+   border: 15px solid #6735B8;
+}
+
 .principle-box {
    display: flex;
    width: 275px;
@@ -47,11 +60,11 @@ body {
    font-size: 40px;
    width: 275px;
    height: 130px;
-   margin-left: 29%;
+   margin-left: 28%;
    padding: 10px 17px 13px;
    position: sticky;
    justify-content: center;
-   top: 31%;
+   top: 30%;
    text-align: center;
    border: 4mm ridge rgb(145, 176, 53);
    color: #000000;
